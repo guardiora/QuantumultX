@@ -14,7 +14,7 @@ QuantumultX **真·小白**配置
 
 点击下载，将下边的链接拷贝到输入框。
 
-https://raw.githubusercontent.com/alpha87/QuantumultX-Profiles/master/quantumultX_profile.conf
+https://raw.githubusercontent.com/guardiora/QuantumultX/master/quantumultX_profile.conf
 
 保存。
 
