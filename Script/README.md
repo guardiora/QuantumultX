@@ -1,5 +1,5 @@
 # Rule description：
-## [中文版说明点击此处](https://github.com/NobyDa/Script/blob/master/QuantumultX/README_CN.md)
+## [中文版说明点击此处](https://github.com/guardiora/QuantumultX/blob/master/Script/README_CN.md)
 * **[AdRule.list](https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/AdRule.list) （More than 7000 ad rules, This rule is modified from [lhie1](https://github.com/lhie1/Rules)，and delete [ConnersHua](https://github.com/ConnersHua/Profiles) duplicate)**
 
 * **[AdRuleTest.list](https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/AdRuleTest.list)（More than 1300 ad rules，This rule is modified from [Scomper](https://github.com/scomper/Surge). Because the original author stopped maintenance, so take over the optimization and delete some normal rules, only for testing**)
