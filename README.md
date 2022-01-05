@@ -21,6 +21,11 @@ https://raw.githubusercontent.com/guardiora/QuantumultX/master/quantumultX_profi
 ### 2. 导入节点
 
 可以手动导入或者订阅链接导入。
+### 3. 转换机场节点
+https://sub.chizzle.ml/ （维护中）
+
+### 4. Free代理池项目
+https://m.chizzle.ml/
 
 ## 使用远程 JS
 
