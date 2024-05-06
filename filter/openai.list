@@ -1,4 +1,6 @@
 DOMAIN-SUFFIX, openai.com
+DOMAIN-SUFFIX, chatgpt.com
 DOMAIN-SUFFIX, ai.com
+DOMAIN, search.chatgpt.com
 DOMAIN, cdn.auth0.com
 DOMAIN, openaiapi-site.azureedge.net
